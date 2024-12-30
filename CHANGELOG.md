@@ -4,7 +4,7 @@ This changelog documents all noteworthy changes in the project.
 
 ## Next
 
-## v0.4.4 - 13th April 2023
+## v0.4.4 - 13th April 2024
 
 - Just a small bump, nothing actually.
 
